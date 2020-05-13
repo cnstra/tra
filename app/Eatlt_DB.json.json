@@ -1,0 +1,42 @@
+
+
+{
+  "LoaiMonan": {
+    "01": {
+      "Name": "Món Hấp",
+      "Image": "https://tutrithuc.com/upload/img/post_content_avata/13586.jpg"
+    },
+    "02": {
+      "Name": "Món Nướng",
+      "Image": "https://anh.24h.com.vn/upload/3-2017/images/2017-08-23/1503457073-11--4-.jpg"
+    },
+    "03": {
+      "Name": "Món Tráng Miệng",
+      "Image": "https://kenh14cdn.com/thumb_w/640/kftsA9wNGm0gwGKRZ8ACoyRW9w6z/Image/2015/04/de-7-c818a-a0e26.jpg"
+    },
+    "04": {
+      "Name": "Món Chiên",
+      "Image": "https://img.over-blog-kiwi.com/2/26/48/15/20180120/ob_9c4572_tom-chien-xu.jpg"
+    },
+    "05": {
+      "Name": "Món Xào",
+      "Image": "https://cdn.tgdd.vn/Files/2019/08/29/1192773/cac-mon-rau-xao-voi-thit-bo-vua-ngon-vua-nhanh-lai-de-lam-201908290901015964.jpg"
+    },
+    "06": {
+      "Name": "Món Soup",
+      "Image": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/sup-bi-do-1.jpg"
+    }
+  },
+ 
+  "User": {
+    "035736705": {
+      "Name": "cnst",
+      "Pass": "123456"
+    },
+    "035736704": {
+      "Name": "tra",
+      "Pass": "123456"
+    }
+  }
+
+}
